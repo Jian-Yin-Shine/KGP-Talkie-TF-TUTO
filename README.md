@@ -28,9 +28,9 @@ Tensorflow2入门教程和相关代码整理
 
 **Lecture11. CNN for 银行客户满意度调查**
 
-**Lecture13. 多标签分类 **
+**Lecture13. 多标签分类**
 
-**Lecture16. RNN, LSTM Google股票预测 **
+**Lecture16. RNN, LSTM Google股票预测**
 
 **Lecture20. depthwise and pointwise cnn review | mobile net research paper review**
 
